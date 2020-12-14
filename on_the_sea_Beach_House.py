@@ -4,7 +4,6 @@ implemented in Python in order to
 familiarize myself with the GPIO 
 library and note frequencies.
 May 15th 2020.
-Jazmin Idhali Paz
 '''
 
 import RPi.GPIO as GPIO
